@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.8.1
+Created-By: 1.6.0_21-b07 (Sun Microsystems Inc.)
+Main-Class: mygroup.mygroup
+Class-Path: lib/BrowserLauncher2-all-1_3.jar lib/commons-jxpath-1.1.ja
+ r lib/commons-logging-api.jar lib/commons-logging.jar lib/mx4j-impl.j
+ ar lib/mx4j-jmx.jar lib/mx4j-remote.jar lib/mx4j-tools.jar lib/sbbi-j
+ mx-1.0.jar lib/sbbi-upnplib-1.0.4.jar
+X-COMMENT: Main-Class will be added automatically by build
+
